@@ -270,7 +270,7 @@ def main():
                 st.markdown("""
                 **Climate Scenarios Explained:**
                 - **Baseline:** Current rainfall patterns and tidal conditions
-                - **RCP8.5:** Future worst-case scenario with increased rainfall and sea level rise
+                - **RCP8.5:** Future worse-case scenario with increased rainfall and sea level rise
                 
                 **Risk Assessment Guidelines:**
                 - **🟢 Low Risk (< 0.5m):** Minimal flood impact; standard protective measures sufficient
@@ -291,4 +291,5 @@ def main():
         st.info("👆 Enter a 6-digit Singapore postal code above to begin risk assessment")
 
 if __name__ == "__main__":
+
     main()
