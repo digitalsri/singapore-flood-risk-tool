@@ -15,7 +15,7 @@ An interactive web application for assessing flood risk at any Singapore locatio
 
 ## 🎯 Special Feature
 
-**Dynamic Risk Generation**: This tool generates flood levels **randomly on each assessment**. Every time you click "Assess Risk Again" for the same postal code, different risk levels are displayed. This feature allows users to:
+**Dynamic Risk Generation**: This tool generates flood levels **randomly on each assessment**. Every time you click "Assess Risk" again for the same postal code, different risk levels are displayed. This feature allows users to:
 - Explore various potential flood scenarios
 - Understand the range of possible flood impacts
 - Demonstrate risk variability for educational purposes
