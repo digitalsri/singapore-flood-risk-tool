@@ -1,3 +1,7 @@
+Hosted free on Streamlit Community Cloud—because sharing is caring!
+
+Visit: https://singapore-flood-risk-tool.streamlit.app/
+
 # Singapore Flood Risk Assessment Tool
 
 An interactive web application for assessing flood risk at any Singapore location using postal codes. Built with Streamlit for easy deployment and user-friendly interface.
