@@ -24,4 +24,4 @@ An interactive web application for assessing flood risk at any Singapore locatio
 
 ### Prerequisites
 - Python 3.8 or higher
-- pip package manager
+- Refer requirements.txt
